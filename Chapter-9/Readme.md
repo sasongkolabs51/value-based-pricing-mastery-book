@@ -1,24 +1,24 @@
-# The Post‑Pyramid Delivery Model Companion Toolkit  
-*Practical templates and guided exercises for Chapter 9*
+# Chapter 9 Companion Workbook  
+*The Post-Pyramid Delivery Model – Turning AI Speed into a Profit Multiplier*
 
-Your external pricing system is ready. Your clients are retrained. Now comes the quiet, difficult work of rebuilding the inside of your practice—so that every gain in AI speed adds to your margin instead of your team’s resentment. This toolkit gives you the worksheets, templates, and checklists to redesign your delivery workflow, realign incentives, install quality control, and prove the financial case. Work through each section sequentially. By the end, you’ll have a complete one‑page delivery blueprint for one service line and a compensation pilot that makes the new model feel like opportunity, not threat.
+This workbook helps you rebuild the internal engine of your practice so that every efficiency gain from AI flows to your margin, not to a client discount. You’ll map your current workflow, redesign it around outcomes, rearchitect compensation, and install a quality protocol that makes AI-augmented delivery premium-grade. By the end, you’ll have a complete post-pyramid blueprint for one service line and the financial simulation to prove it works—ready to share with your team and your firm’s leadership.
 
 ---
 
-[1. Delivery Model Readiness Pre‑Check](1.%20Delivery%20Model%20Readiness%20Pre‑Check.md)
+[1. Pre-Design Mindset Check](1.%20Pre-Design%20Mindset%20Check.md)
 
-[2. Post‑Pyramid Role Mapping Worksheet](2.%20Post‑Pyramid%20Role%20Mapping%20Worksheet.md)
+[2. Current vs. Post-Pyramid Workflow Mapping (The AI-Amplified Delivery Canvas)](2.%20Current%20vs.%20Post-Pyramid%20Workflow%20Mapping%20(The%20AI-Amplified%20Delivery%20Canvas).md)
 
-[3. AI‑Amplified Delivery Canvas](3.%20AI‑Amplified%20Delivery%20Canvas.md)
+[3. Post-Pyramid Role Definitions and Metrics](3.%20Post-Pyramid%20Role%20Definitions%20and%20Metrics.md)
 
-[4. Outcome‑Based Compensation Pilot Builder](4.%20Outcome‑Based%20Compensation%20Pilot%20Builder.md)
+[4. Compensation Redesign Blueprint](4.%20Compensation%20Redesign%20Blueprint.md)
 
-[5. Human‑in‑the‑Loop Quality Protocol Template](5.%20Human‑in‑the‑Loop%20Quality%20Protocol%20Template.md)
+[5. Human-in-the-Loop Quality Protocol SOP](5.%20Human-in-the-Loop%20Quality%20Protocol%20SOP.md)
 
-[6. Team Conversation Script Builder](6.%20Team%20Conversation%20Script%20Builder.md)
+[6. Integrated Financial Simulation](6.%20Integrated%20Financial%20Simulation.md)
 
-[7. Margin Simulation Worksheet](7.%20Margin%20Simulation%20Worksheet.md)
+[7. Deployment Sequence and Checklist](7.%20Deployment%20Sequence%20and%20Checklist.md)
 
-[8. Implementation Checklist for Chapter 9](8.%20Implementation%20Checklist%20for%20Chapter%209.md)
+[8. Chapter 9 Completion Checklist](8.%20Chapter%209%20Completion%20Checklist.md)
 
-[9. Key Concepts Summary Card](9.%20Key%20Concepts%20Summary%20Card.md)
+[9. Post-Pyramid Delivery Quick-Reference Card](9.%20Post-Pyramid%20Delivery%20Quick-Reference%20Card.md)

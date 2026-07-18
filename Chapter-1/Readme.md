@@ -1,22 +1,24 @@
-# The Hourglass Cracks Companion Toolkit  
-*Practical templates and guided exercises for Chapter 1*
+# Chapter 1 Companion Workbook  
+*Unshackling Your Worth from the Clock*
 
-Welcome to your hands-on toolkit. The pages that follow turn the four reclamation drills from the chapter into structured, reusable templates. Work through them in order, at your own pace, and return anytime the old billable-hour voice tries to take the wheel again. The goal is not to fill in blanks—it’s to install a new identity deep enough to become automatic.
+The following tools are designed to move you from intellectual agreement into embodied identity change. Work through them in order. Each one installs a piece of the Value Architect mindset. Revisit them any time the old billable-hour voice sneaks back in.
 
 ---
 
-[1. Identity Shift Self-Assessment](1.%20Identity%20Shift%20Self-Assessment.md)
+[1. Billable-Hour Identity Diagnostic](1.%20Billable-Hour%20Identity%20Diagnostic.md)
 
-[2. Billable-Hour Autobiography Worksheet](2.%20Billable-Hour%20Autobiography%20Worksheet.md)
+[2. The Billable-Hour Autobiography Worksheet](2.%20The%20Billable-Hour%20Autobiography%20Worksheet.md)
 
-[3. Invoice Value Narrative Builder](3.%20Invoice%20Value%20Narrative%20Builder.md)
+[3. Invoice Reframe Drill Template](3.%20Invoice%20Reframe%20Drill%20Template.md)
 
-[4. Anchor Audit Log](4.%20Anchor%20Audit%20Log.md)
+[4. Anchor Audit Log (3-Day Challenge)](4.%20Anchor%20Audit%20Log%20(3-Day%20Challenge).md)
 
-[5. Procurement Pushback Pivot Script Builder](5.%20Procurement%20Pushback%20Pivot%20Script%20Builder.md)
+[5. Outcome DNA Discovery Canvas](5.%20Outcome%20DNA%20Discovery%20Canvas.md)
 
-[6. Value Architect Manifesto Template](6.%20Value%20Architect%20Manifesto%20Template.md)
+[6. Value Architect Identity Statement](6.%20Value%20Architect%20Identity%20Statement.md)
 
-[7. Key Mental Shifts Summary Card](7.%20Key%20Mental%20Shifts%20Summary%20Card.md)
+[7. Quick-Reference Identity Shift Scripts](7.%20Quick-Reference%20Identity%20Shift%20Scripts.md)
 
-[8. Chapter 1 Implementation Checklist](8.%20Chapter%201%20Implementation%20Checklist.md)
+[8. Chapter 1 Completion Checklist](8.%20Chapter%201%20Completion%20Checklist.md)
+
+[9. Key Mental Shifts at a Glance (Keep This Visible)](9.%20Key%20Mental%20Shifts%20at%20a%20Glance%20(Keep%20This%20Visible).md)

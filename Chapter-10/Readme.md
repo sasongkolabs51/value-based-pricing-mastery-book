@@ -1,24 +1,28 @@
-# The Internal Sell Companion Toolkit  
-*Practical templates and guided exercises for Chapter 10*
+# Chapter 10 Companion Workbook  
+*The Internal Sell – Making Value Pricing Your Firm’s Survival Strategy*
 
-You’ve proven the model works with clients, rebuilt your delivery engine, and retrained the people around you. Now comes the most delicate challenge: bringing your firm’s leadership—and your fellow partners—on board. This toolkit helps you translate everything you’ve built into a compelling, politically savvy, and institutionally sound case for change. You’ll end with a complete 10‑slide deck, a one‑page governance charter, and the confidence to stand in front of the partnership and lead.
+This workbook helps you translate your individual success into organizational momentum. You’ll build the burning platform, map the political landscape, design a compensation pilot, draft the charter, and deliver a presentation that turns skeptics into sponsors. By the end, you’ll have everything you need to walk into a partnership meeting and walk out with a mandate—not just for your practice, but for the firm’s future.
 
 ---
 
-[1. Internal Sell Readiness Pre‑Check](1.%20Internal%20Sell%20Readiness%20Pre‑Check.md)
+[1. Pre-Sell Mindset Check](1.%20Pre-Sell%20Mindset%20Check.md)
 
-[2. Burning Platform Data Compiler](2.%20Burning%20Platform%20Data%20Compiler.md)
+[2. Burning Platform Data Gathering Worksheet](2.%20Burning%20Platform%20Data%20Gathering%20Worksheet.md)
 
-[3. Political Landscape Map](3.%20Political%20Landscape%20Map.md)
+[3. The 10-Slide Leadership Deck Builder](3.%20The%2010-Slide%20Leadership%20Deck%20Builder.md)
 
-[4. 10‑Slide Leadership Deck Outline](4.%2010‑Slide%20Leadership%20Deck%20Outline.md)
+[4. Political Landscape Mapping Tool](4.%20Political%20Landscape%20Mapping%20Tool.md)
 
-[5. Partnership Value Pricing Charter Builder](5.%20Partnership%20Value%20Pricing%20Charter%20Builder.md)
+[5. Internal Objection Response Builder](5.%20Internal%20Objection%20Response%20Builder.md)
 
-[6. Internal Objection Handling Script Builder](6.%20Internal%20Objection%20Handling%20Script%20Builder.md)
+[6. Partner Compensation Pilot Design Template](6.%20Partner%20Compensation%20Pilot%20Design%20Template.md)
 
-[7. Presentation Rehearsal Quality Scorecard](7.%20Presentation%20Rehearsal%20Quality%20Scorecard.md)
+[7. Partnership Value Pricing Charter Template](7.%20Partnership%20Value%20Pricing%20Charter%20Template.md)
 
-[8. Implementation Checklist for Chapter 10](8.%20Implementation%20Checklist%20for%20Chapter%2010.md)
+[8. Presentation Delivery Checklist and Practice Guide](8.%20Presentation%20Delivery%20Checklist%20and%20Practice%20Guide.md)
 
-[9. Key Concepts Summary Card](9.%20Key%20Concepts%20Summary%20Card.md)
+[9. Integration Map Internal Sell ↔ Entire System](9.%20Integration%20Map%20Internal%20Sell%20↔%20Entire%20System.md)
+
+[10. Chapter 10 Completion Checklist](10.%20Chapter%2010%20Completion%20Checklist.md)
+
+[11. Internal Sell Quick-Reference Card](11.%20Internal%20Sell%20Quick-Reference%20Card.md)

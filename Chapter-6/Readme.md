@@ -1,26 +1,28 @@
-# The Outcome Packaging Playbook Companion Toolkit  
-*Practical templates and guided exercises for Chapter 6*
+# Chapter 6 Companion Workbook  
+*The Outcome Packaging Playbook – Structuring Engagements Clients Can’t Argue With*
 
-Your VRR engine now has a number. But that number only matters if the engagement letter makes the price feel inevitable—tied to a specific, verifiable outcome rather than to the vagaries of effort. This toolkit turns the chapter’s packaging methodology into reusable templates, drafting guides, and checklists. By the time you work through these exercises, you’ll have two complete outcome‑based engagement letters ready to present to clients, along with a systematic approach for creating more in under an hour.
+This workbook turns the chapter’s packaging principles into your own library of engagement letters. You’ll rewrite scopes as outcome statements, choose the right commercial archetype, embed value assurance mechanisms, and write risk language that makes your fee feel like the safest investment the client will make all year. By the end, you’ll have at least one complete, client-ready outcome-based engagement letter—and a repeatable system for creating more.
 
 ---
 
-[1. Packaging Readiness Pre‑Check](1.%20Packaging%20Readiness%20Pre‑Check.md)
+[1. Pre-Packaging Mindset Check](1.%20Pre-Packaging%20Mindset%20Check.md)
 
-[2. Outcome Statement Builder Worksheet](2.%20Outcome%20Statement%20Builder%20Worksheet.md)
+[2. Outcome Statement Builder](2.%20Outcome%20Statement%20Builder.md)
 
-[3. Archetype Selection Matrix Quick‑Reference](3.%20Archetype%20Selection%20Matrix%20Quick‑Reference.md)
+[3. Archetype Selector](3.%20Archetype%20Selector.md)
 
-[4. Value Assurance Mechanism Builder](4.%20Value%20Assurance%20Mechanism%20Builder.md)
+[4. Value Assurance Mechanism Designer](4.%20Value%20Assurance%20Mechanism%20Designer.md)
 
-[5. Risk Allocation Language Builder](5.%20Risk%20Allocation%20Language%20Builder.md)
+[5. Risk Allocation Language Kit](5.%20Risk%20Allocation%20Language%20Kit.md)
 
 [6. Engagement Letter Assembly Blueprint](6.%20Engagement%20Letter%20Assembly%20Blueprint.md)
 
-[7. Hourly‑Language Purge Checklist](7.%20Hourly‑Language%20Purge%20Checklist.md)
+[7. BeforeAfter Rewrite Exercise](7.%20BeforeAfter%20Rewrite%20Exercise.md)
 
-[8. Procurement Pushback Script Builder](8.%20Procurement%20Pushback%20Script%20Builder.md)
+[8. Client Introduction Conversation Scripts](8.%20Client%20Introduction%20Conversation%20Scripts.md)
 
-[9. Implementation Checklist for Chapter 6](9.%20Implementation%20Checklist%20for%20Chapter%206.md)
+[9. Integration Map Package ↔ VRR ↔ Audit](9.%20Integration%20Map%20Package%20↔%20VRR%20↔%20Audit.md)
 
-[10. Key Concepts Summary Card](10.%20Key%20Concepts%20Summary%20Card.md)
+[10. Chapter 6 Completion Checklist](10.%20Chapter%206%20Completion%20Checklist.md)
+
+[11. Outcome Packaging Quick-Reference Card](11.%20Outcome%20Packaging%20Quick-Reference%20Card.md)

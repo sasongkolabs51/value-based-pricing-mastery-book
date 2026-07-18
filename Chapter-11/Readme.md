@@ -1,24 +1,24 @@
-# The Post‑Billable Leader Companion Toolkit  
-*Practical templates and guided exercises for Chapter 11*
+# Chapter 11 Companion Workbook  
+*The Post-Billable Leader – Becoming the Champion Who Rewrites the Rules*
 
-You’ve built the system, won the clients, and brought your firm on board. Now comes the final shift: stepping into a visible leadership role that makes your transformation permanent—and gives others a reason to follow. This toolkit helps you craft your story, institutionalize the model, share your proof publicly, and build the resilience to lead through skepticism. Work through each section in sequence. By the end, you’ll have a complete thought‑piece, a Council charter, a public‑sharing plan, and a set of personal practices that keep you grounded as you become the face of the post‑billable movement.
+This workbook is the final piece of your transformation from a professional who mastered a system to a leader who shapes the profession. It helps you craft your story, institutionalize the change, share your proof publicly, and sustain your influence for years. By the end, you’ll have a personal narrative ready for publication, a governance plan for your firm’s Value Pricing Council, a thought leadership calendar, and the daily practices that keep you at the forefront even when the old doubts resurface.
 
 ---
 
-[1. Leadership Readiness Self‑Check](1.%20Leadership%20Readiness%20Self‑Check.md)
+[1. Pre-Leadership Mindset Check](1.%20Pre-Leadership%20Mindset%20Check.md)
 
-[2. Pricing Perspective Thought‑Piece Builder](2.%20Pricing%20Perspective%20Thought‑Piece%20Builder.md)
+[2. Your Pricing Pioneer Narrative Builder](2.%20Your%20Pricing%20Pioneer%20Narrative%20Builder.md)
 
-[3. Value Pricing Council Charter Builder](3.%20Value%20Pricing%20Council%20Charter%20Builder.md)
+[3. Value Pricing Council From Charter to Reality](3.%20Value%20Pricing%20Council%20From%20Charter%20to%20Reality.md)
 
-[4. Public Sharing Planner](4.%20Public%20Sharing%20Planner.md)
+[4. Public Proof & Thought Leadership Planner](4.%20Public%20Proof%20&%20Thought%20Leadership%20Planner.md)
 
-[5. Leadership Resilience & Maintenance Protocols](5.%20Leadership%20Resilience%20&%20Maintenance%20Protocols.md)
+[5. Handling Skepticism & Building Resilience](5.%20Handling%20Skepticism%20&%20Building%20Resilience.md)
 
-[6. Legacy Inventory Template](6.%20Legacy%20Inventory%20Template.md)
+[6. Leadership Maintenance Practices](6.%20Leadership%20Maintenance%20Practices.md)
 
-[7. Skepticism Response Script Builder](7.%20Skepticism%20Response%20Script%20Builder.md)
+[7. Integration Map Leadership ↔ Your Entire System](7.%20Integration%20Map%20Leadership%20↔%20Your%20Entire%20System.md)
 
-[8. Implementation Checklist for Chapter 11](8.%20Implementation%20Checklist%20for%20Chapter%2011.md)
+[8. Chapter 11 Completion Checklist](8.%20Chapter%2011%20Completion%20Checklist.md)
 
-[9. Key Concepts Summary Card](9.%20Key%20Concepts%20Summary%20Card.md)
+[9. Post-Billable Leader Quick-Reference Card](9.%20Post-Billable%20Leader%20Quick-Reference%20Card.md)
